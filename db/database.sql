@@ -26,8 +26,3 @@ SELECT * FROM usuarios;
 
 SELECT * FROM tasks;
                    
-                   
-INSERT INTO usuarios(correo) VALUES("pablo@gmail.com");
-INSERT INTO tasks (id, usuarios_id, tarea, descripcion, fechafin) VALUES ('1', '1', 'Cagar', 'Terminar', '2023-09-29 14:30:00');
-                   
-                   
